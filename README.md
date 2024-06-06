@@ -37,8 +37,8 @@
   <a href="https://www.linkedin.com/in/yusufkaahya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="hi@yimikami.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:hi@yimikami.me" target="_blank">
+    <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/apple_mail_logo_2.jpg" height="35" alt="gmail logo"  />
   </a>
 </div>
 
