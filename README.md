@@ -1,3 +1,6 @@
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.6; background: url('https://media1.tenor.com/m/YR1hxyktKYYAAAAC/cat.gif');]{x0000}$}
+
 <h2 align="left">Hi 👋! My name is Yusuf and I'm a student, from Türkiye</h2>
 
 ###
