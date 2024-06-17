@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1248263015976140893/1248374640666214461/Yimikami_Avatar.png?ex=66636efc&is=66621d7c&hm=7a04c16cd6847b136d9bd220601d4e86a349179668d21897711e4bf7a49d1413&"  />
+<img align="right" height="150" src="https://yimikami.me/assets/images/my-avatar.png"  />
 
 ###
 
