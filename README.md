@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I am a student who is passionate about exploring new horizons by combining my technology and language skills in the ever-changing flow of the digital world.<br><br>- 🔭 I’m currently working on [Koochi](https://github.com/Yimikami/Koochi)<br><br>- 📚 I’m currently learning **React**<br><br>- 👨‍💻 Most of my projects are available at [yimikami.me](https://yimikami.me)<br><br>- 💬 Ask me about **anything, if I know the answer, I can help :)**<br><br>- 📫 You can reach me **hi@yimikami.me**<br><br>- ⚡ Fun fact **I can code for 12 hours straight.**</p>
+<p align="left">I am a student who is passionate about exploring new horizons by combining my technology and language skills in the ever-changing flow of the digital world.<br><br>- 🔭 I’m currently working on [Koochi](https://github.com/Yimikami/Koochi) <br><br>- 📚 I’m currently learning **React**<br><br>- 👨‍💻 Most of my projects are available at [yimikami.me](https://yimikami.me) <br><br>- 💬 Ask me about **anything, if I know the answer, I can help :)**<br><br>- 📫 You can reach me **hi@yimikami.me**<br><br>- ⚡ Fun fact **I can code for 12 hours straight.**</p>
 
 ###
 
