@@ -23,11 +23,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🧑‍💻  About Me</h3>
 
 ###
 
-<p align="left">I am a student who is passionate about exploring new horizons by combining my technology and language skills in the ever-changing flow of the digital world.<br><br>- 🔭 I’m currently working on [Koochi](https://github.com/Yimikami/Koochi) <br><br>- 📚 I’m currently learning **React**<br><br>- 👨‍💻 Most of my projects are available at [yimikami.me](https://yimikami.me) <br><br>- 💬 Ask me about **anything, if I know the answer, I can help :)**<br><br>- 📫 You can reach me **hi@yimikami.me**<br><br>- ⚡ Fun fact **I can code for 12 hours straight.**</p>
+<p align="left">
+I am a student who is passionate about exploring new horizons by combining my technology and language skills in the ever-changing flow of the digital world.
+</p>
+
+- 🔭 I’m currently working on [Koochi](https://github.com/Yimikami/Koochi)
+- 📚 I’m currently learning **React**
+- 👨‍💻 Most of my projects are available at [yimikami.me](https://yimikami.me)
+- 💬 Ask me about **anything, if I know the answer, I can help :)**
+- 📫 You can reach me at **[hi@yimikami.me](mailto:yimikami.me)**
+- ⚡ Fun fact: **I can code for 12 hours straight.**
+
 
 ###
 
@@ -36,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yimikami&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yimikami&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yimikami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
