@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Most of my projects are available at [yimikami.me](yimikami.me)
+- 👨‍💻 Most of my projects are available at [yimikami.me](https://yimikami.me)
 
 - 💬 Ask me about **anything, if I know the answer, I can help :)**
 
