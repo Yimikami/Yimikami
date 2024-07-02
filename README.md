@@ -1,4 +1,5 @@
 <img align="right" height="150" src="https://portfolio.yimikami.me/me.png"  />
+<img align="left" height="150" src="https://www.codedex.io/api/petStatus?user=yimikami"  />
 
 ###
 
@@ -16,6 +17,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yimikami.yimikami&"  />
 </div>
+
 
 ###
 
