@@ -21,7 +21,10 @@
 
 ###
 
-<h1 align="center">Hi, I'm Yusuf 👋</h1>
+<h1 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Hi%2C+I'm+Yusuf+%F0%9F%91%8B)](https://yimikami.me/)
+</h1>
 
 ###
 
