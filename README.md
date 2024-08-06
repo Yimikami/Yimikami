@@ -1,5 +1,4 @@
 <img align="right" height="150" src="https://portfolio.yimikami.me/me.png"  />
-<img align="left" height="150" src="https://www.codedex.io/api/petStatus?user=yimikami"  />
 
 ###
 
@@ -44,7 +43,6 @@ I am a student who is passionate about exploring new horizons by combining my te
 - 👨‍💻 Most of my projects are available at [yimikami.me](https://yimikami.me)
 - 💬 Ask me about **anything, if I know the answer, I can help :)**
 - 📫 You can reach me at **[hi@yimikami.me](mailto:hi@yimikami.me)** or on **[Twitter](https://x.com/yusufkaahya)**
-- ⚡ Fun fact: **I can code for 12 hours straight.**
 
 
 ###
