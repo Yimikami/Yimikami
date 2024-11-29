@@ -38,7 +38,7 @@
 I am a student who is passionate about exploring new horizons by combining my technology and language skills in the ever-changing flow of the digital world.
 </p>
 
-- 🔭 I’m currently working on [Pudding AI](https://github.com/Yimikami/pudding-ai)
+- 🔭 I’m currently working on [Lolchi](https://github.com/Yimikami/Lolchi)
 - 📚 I’m currently learning **React and Next.js**
 - 👨‍💻 Most of my projects are available at [yimikami.me](https://yimikami.me)
 - 💬 Ask me about **anything, if I know the answer, I can help :)**
