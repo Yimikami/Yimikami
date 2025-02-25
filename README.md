@@ -1,59 +1,60 @@
-<img align="right" height="150" src="https://portfolio.yimikami.me/me.png"  />
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/yusufkaahya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/yusufkaahya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/yusufkaahya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yusuf%20Kahya&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yimikami.yimikami&"  />
-</div>
+---
 
 
-###
 
-<h1 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=30&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Hi%2C+I'm+Yusuf+%F0%9F%91%8B)](https://yimikami.me/)
-</h1>
+<h3 align="center">A passionate developer exploring the digital world</h3>
 
-###
-
-<h3 align="left">🧑‍💻  About Me</h3>
-
-###
-
-<p align="left">
-I am a student who is passionate about exploring new horizons by combining my technology and language skills in the ever-changing flow of the digital world.
+<p align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
+  <a href="https://x.com/yusufkaahya"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:hi@yimikami.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yimikami.me/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://www.linkedin.com/in/yusufkaahya/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
+  <a href="https://www.instagram.com/yusufkaahya/"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-- 🔭 I’m currently working on [Lolchi](https://github.com/Yimikami/Lolchi)
-- 📚 I’m currently learning **React and Next.js**
-- 👨‍💻 Most of my projects are available at [yimikami.me](https://yimikami.me)
-- 💬 Ask me about **anything, if I know the answer, I can help :)**
-- 📫 You can reach me at **[hi@yimikami.me](mailto:hi@yimikami.me)** or on **[Twitter](https://x.com/yusufkaahya)**
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yimikami.yimikami&" alt="profile-views" />
+</p>
 
+---
 
-###
+<p align="center">I'm a student who is passionate about exploring new horizons by combining my technology and language skills in the ever-changing flow of the digital world.</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🔭 Currently Working On
+- Improving my full-stack development skills
+- Building responsive and accessible web applications
+- Learning new technologies and frameworks
 
-###
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2D8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yimikami&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yimikami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yimikami&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yimikami&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="language graph"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yimikami&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div> 
