@@ -11,7 +11,7 @@
 <p align="center" style="background-color: #f0f0f0; padding: 10px; border-radius: 10px;">
   <a href="https://x.com/yusufkaahya"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
   <a href="mailto:hi@yimikami.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yimikami.me/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://www.yusufkahya.com/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://www.linkedin.com/in/yusufkaahya/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin-white&logoColor=white"/></a>
   <a href="https://www.instagram.com/yusufkaahya/"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
